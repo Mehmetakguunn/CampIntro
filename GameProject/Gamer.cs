@@ -15,4 +15,5 @@ namespace GameProject
         public long IdentityNumber { get; set; }
 
     }
-}}
+}
+
